@@ -5,7 +5,7 @@
 
     <groupId>io.github.actions_examples.java</groupId>
     <artifactId>helloworld</artifactId>
-    <version>0.0.7</version>
+    <version>1.0.0</version>
     <name>io.github.actions_examples.java.helloworld</name>
 
     <properties>

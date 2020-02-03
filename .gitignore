@@ -24,3 +24,7 @@ hs_err_pid*
 
 # maven output directory
 target/
+
+# gradle cache and output directories
+.gradle/
+build/
